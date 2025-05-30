@@ -1,12 +1,12 @@
-# Problem Set 4
+# Problem Set 3
 You should feel comfortable with GitHub by now. If you're not, come to office hours with me or the TAs.
 
 If you think you see an error or typo, let me know! I will send out an email and post an announcement about any typos or errors you fine.
 
 The deliverables for this problem set are the following:
 
-* `ps4-part1.py`
-* `ps4-part2.py`
+* `ps3-part1.py`
+* `ps3-part2.py`
 
 **Remember** The sample code is your friend!
 
@@ -99,12 +99,12 @@ I created 24 four letter words that contained no duplicate letters.
 
 ---
 
-## Deadline: Monday, September 23, 2024, at 11:59pm EDT
+## Deadline: Wednesday, September 24, 2025, at 11:59pm EDT
 
 ## Deliverables
 
-1. `ps4-part1.py` (Part 1: File Statistics)
-2. `ps4-part2.py` (Part 2: Word Generator)
+1. `ps3-part1.py` (Part 1: File Statistics)
+2. `ps3-part2.py` (Part 2: Word Generator)
 
 ## Reminder: Important Guidelines
 * Points will be deducted if your output does not match the required format.
