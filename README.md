@@ -10,7 +10,7 @@ The deliverables for this problem set are the following:
 
 **Remember** The sample code is your friend!
 
-**Remember** I now expect you to write comments in your code! One point will be deducted if you do not provide comments explaining your code. Here's what I would like commented this time:
+**Remember** I now expect you to write comments in your code! Points will be deducted if you do not provide comments explaining your code. Here's what I would like commented this time:
 
 * Before every function you define, describe what it does and what its arguments are. Exception: you do not need to explain what `main()` is for.
 * Before every variable you declare, explain what value it is holding. Exception: variables that appear after the keyword `for`.
