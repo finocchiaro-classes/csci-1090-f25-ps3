@@ -1,7 +1,7 @@
 # Problem Set 3
 You should feel comfortable with GitHub by now. If you're not, come to office hours with me or the TAs.
 
-If you think you see an error or typo, let me know! I will send out an email and post an announcement about any typos or errors you fine.
+If you think you see an error or typo, let me know! I will send out an email and post an announcement about any typos or errors you find.
 
 The deliverables for this problem set are the following:
 
